@@ -1,0 +1,10 @@
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+  body {
+    background-color: #020202 !important;
+  }
+
+  .sc-text-white{
+    color: aliceblue;
+  }
+}
